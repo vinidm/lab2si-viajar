@@ -6,7 +6,7 @@ categories: jekyll update
 
 # A melhor viagem é a sua!
 
-![Melhor viagem](../assets/images/melhor-viagem.jpg)
+![Melhor viagem](https://raw.githubusercontent.com/vinidm/lab2si-viajar/gh-pages/assets/images/melhor-viagem.jpg)
 
 Não perca tempo e comece suas aventuras!
 
