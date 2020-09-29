@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<ul>
+    <header>
+        <h1>Viajar é preciso!</h1>
+    </header>
+    <main>
+        <img src="{{ '/assets/images/viajar.jpg' | relative_url }}" class="center">
+        {% for post in site.posts %}
+            <li><a href="{{ post.url | relative_url }}">{{post.title}}</a></li>
+        {% endfor %}
+    </main>
+</ul>
