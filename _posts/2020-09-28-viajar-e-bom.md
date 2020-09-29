@@ -10,20 +10,20 @@ Viajar é muito bom e todo mundo sabe disso!! Então para inspirar vocês a esco
 
 * Guarujá
 
-![alt text](/assets/images/guaruja.jpg)
+![Guarujá](assets/images/guaruja.jpg)
 
 * Bertioga
 
-![alt text](/assets/images/bertioga.jpg)
+![Bertioga](assets/images/bertioga.jpg)
 
 * Ilha Bela
 
-![alt text](/assets/images/ilha-bela.jpg)
+![Ilha Bela](assets/images/ilha-bela.jpg)
 
 * Caraguatatuba
 
-![alt text](/assets/images/caraguatatuba.jpg)
+![Caraguatatuba](assets/images/caraguatatuba.jpg)
 
 * Ubatuba
 
-![alt text](/assets/images/ubatuba.jpg)
+![Ubatuba](assets/images/ubatuba.jpg)

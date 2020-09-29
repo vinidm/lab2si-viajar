@@ -6,7 +6,7 @@ categories: jekyll update
 
 # A melhor viagem é a sua!
 
-![alt text](/assets/images/melhor-viagem.jpg)
+![Melhor viagem](assets/images/melhor-viagem.jpg)
 
 Não perca tempo e comece suas aventuras!
 
