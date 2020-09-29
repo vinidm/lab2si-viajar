@@ -6,7 +6,7 @@ categories: jekyll update
 
 # Comece sua viagem agora!
 
-![Comece a viajar](assets/images/comece-viajar.jpg)
+![Comece a viajar](gh-pages/assets/images/comece-viajar.jpg)
 
 Agora que você já escolheu para quais destinos ir, agende sua viagem nos sites a seguir:
 
